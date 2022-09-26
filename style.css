@@ -1,0 +1,51 @@
+.heading 
+{
+ text-align: left;
+width: 100%;
+
+
+}
+
+.heading h3
+{
+ 
+display: inline;
+
+}
+
+.inst_btn
+{
+    float: right;
+    border-width: 3px;
+   
+}
+
+.big_img 
+{
+    width: 100%;
+}
+
+
+.modal-dialog {
+    width :90%;
+    
+}
+.instruction_image {
+    display : inline-block;
+    width:45%
+}
+
+video {
+   
+    background-size: cover; 
+    background-position: center;
+    padding: 25px;
+}
+
+h4 {
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+   
+
+}
